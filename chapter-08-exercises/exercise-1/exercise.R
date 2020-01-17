@@ -1,29 +1,30 @@
 # Exercise 1: creating and accessing lists
 
 # Create a vector `my_breakfast` of everything you ate for breakfast
-
+my_breakfast <- c("eggs", "flat_white")
 
 # Create a vector `my_lunch` of everything you ate (or will eat) for lunch
-
+my_lunch <- c("noodles","water")
 
 # Create a list `meals` that has contains your breakfast and lunch
-
+meals <- paste(my_breakfast , my_lunch)
 
 # Add a "dinner" element to your `meals` list that has what you plan to eat 
 # for dinner
-
+dinner <- "poke_bowl"
+meals <- paste(meals,dinner)
 
 # Use dollar notation to extract your `dinner` element from your list
 # and save it in a vector called 'dinner'
-
-
+dinner <- 
+  ### I dont know how to do this one.
 # Use double-bracket notation to extract your `lunch` element from your list
 # and save it in your list as the element at index 5 (no reason beyond practice)
-
+  ### I dont know how to do this one.
 
 # Use single-bracket notation to extract your breakfast and lunch from your list
 # and save them to a list called `early_meals`
-
+  ### I dont know how to do this one.
 
 
 ### Challenge ###
