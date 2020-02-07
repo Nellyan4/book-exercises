@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46020ae6-4fbe-46e4-97ae-4ee5639136a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/chapter-10-exercises/exercise-4/exercise.R" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-10-exercises/exercise-4/exercise.R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-11-exercises/exercise-1/exercise.R" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-11-exercises/exercise-1/exercise.R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-11-exercises/exercise-4/exercise.R" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-11-exercises/exercise-4/exercise.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-11-exercises/exercise-5/.Rhistory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-11-exercises/exercise-6/.Rhistory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-12-exercises/exercise-1/.Rhistory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter-11-exercises/exercise-5/exercise.R" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-11-exercises/exercise-5/exercise.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter-11-exercises/exercise-6/exercise.R" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-11-exercises/exercise-6/exercise.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter-14-exercises/exercise-1/exercise.R" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-14-exercises/exercise-1/exercise.R" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
@@ -35,7 +40,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580425627670</updated>
-      <workItem from="1580425628902" duration="187000" />
+      <workItem from="1580425628902" duration="347000" />
+      <workItem from="1581030783576" duration="2146000" />
+      <workItem from="1581060950377" duration="2000" />
     </task>
     <servers />
   </component>
