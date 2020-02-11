@@ -7,8 +7,9 @@ library("jsonlite")
 
 # Use `source()` to load your API key variable from the `apikey.R` file you made.
 # Make sure you've set your working directory!
+source("apikey.R") #go to that file, select all, and hit ctrl-enter
 
-
+query_params <- list("api-key" = nyt_key)
 # Create a variable `movie_name` that is the name of a movie of your choice.
 
 
