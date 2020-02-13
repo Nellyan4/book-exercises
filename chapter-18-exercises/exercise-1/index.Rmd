@@ -1,0 +1,20 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+## This is my report!
+
+I like writing **reports**
+
+```{r example, echo = FALSE}
+numbers <- runif(1:100)
+hist(numbers)
+numbers_mean <- mean(numbers)
+```
+
+The mean of the numbers happens to be `r numbers_mean`
+
+```{r other_chunk}
+print(numbers)
+```
