@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46020ae6-4fbe-46e4-97ae-4ee5639136a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-19-exercises/exercise-2/app.R" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-19-exercises/exercise-2/app.R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-19-exercises/exercise-4/app.R" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-19-exercises/exercise-4/app.R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-19-exercises/exercise-4/app_ui.R" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-19-exercises/exercise-4/app_ui.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter-19-exercises/exercise-1/app.R" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-19-exercises/exercise-1/app.R" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +42,7 @@
       <workItem from="1581990325906" duration="236000" />
       <workItem from="1582060942381" duration="1454000" />
       <workItem from="1583101759067" duration="65000" />
+      <workItem from="1583624280629" duration="58000" />
     </task>
     <servers />
   </component>
